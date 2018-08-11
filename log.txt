@@ -1,0 +1,20 @@
+2018-08-11 07:56:40,702-->INFO==>INFO Message
+2018-08-11 07:56:40,702-->ERROR==>error Message
+2018-08-11 07:56:40,702-->WARNING==>warning Message
+2018-08-11 07:56:40,702-->DEBUG==>debug Message
+2018-08-11 08:10:56,771-->INFO==>program started
+2018-08-11 08:10:56,776-->INFO==>Getting an input from the user
+2018-08-11 08:10:58,481-->INFO==>got the a value
+2018-08-11 08:10:58,482-->DEBUG==>a=12
+2018-08-11 08:10:59,490-->INFO==>got the b value
+2018-08-11 08:10:59,490-->DEBUG==>b=6
+2018-08-11 08:10:59,490-->DEBUG==>befor conversion: a=12, b=6
+2018-08-11 08:10:59,490-->INFO==>a value conversion done.
+2018-08-11 08:10:59,490-->DEBUG==>a=12.0
+2018-08-11 08:10:59,490-->INFO==>b value conversion done.
+2018-08-11 08:10:59,490-->DEBUG==>b=6.0
+2018-08-11 08:10:59,490-->DEBUG==>after conversion: a=12.0, b=6.0
+2018-08-11 08:10:59,490-->INFO==>calculating the result
+2018-08-11 08:10:59,490-->INFO==>result calculation done
+2018-08-11 08:10:59,490-->DEBUG==>result=2.0
+2018-08-11 08:10:59,490-->INFO==>done!!
