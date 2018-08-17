@@ -18,3 +18,5 @@
 2018-08-11 08:10:59,490-->INFO==>result calculation done
 2018-08-11 08:10:59,490-->DEBUG==>result=2.0
 2018-08-11 08:10:59,490-->INFO==>done!!
+2018-08-17 07:33:09,384-->INFO==>program started
+2018-08-17 07:33:09,392-->INFO==>Getting an input from the user
